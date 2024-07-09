@@ -1,0 +1,9 @@
+/home/server2/Documents/Spring/uscoia/src/main/java/com/agro/uscoia/UscoiaApplication.java
+/home/server2/Documents/Spring/uscoia/src/main/java/com/agro/uscoia/item/Item.java
+/home/server2/Documents/Spring/uscoia/src/main/java/com/agro/uscoia/item/ItemController.java
+/home/server2/Documents/Spring/uscoia/src/main/java/com/agro/uscoia/item/ItemRepository.java
+/home/server2/Documents/Spring/uscoia/src/main/java/com/agro/uscoia/item/JdbcItemRepository.java
+/home/server2/Documents/Spring/uscoia/src/main/java/com/agro/uscoia/producto/presentacion/JdbcProductoPresentacionRepository.java
+/home/server2/Documents/Spring/uscoia/src/main/java/com/agro/uscoia/producto/presentacion/ProductoPresentacion.java
+/home/server2/Documents/Spring/uscoia/src/main/java/com/agro/uscoia/producto/presentacion/ProductoPresentacionController.java
+/home/server2/Documents/Spring/uscoia/src/main/java/com/agro/uscoia/producto/presentacion/ProductoPresentacionRepository.java

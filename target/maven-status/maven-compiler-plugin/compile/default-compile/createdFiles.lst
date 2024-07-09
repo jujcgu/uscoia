@@ -1,0 +1,9 @@
+com/agro/uscoia/item/ItemRepository.class
+com/agro/uscoia/producto/presentacion/ProductoPresentacionController.class
+com/agro/uscoia/item/ItemController.class
+com/agro/uscoia/producto/presentacion/JdbcProductoPresentacionRepository.class
+com/agro/uscoia/producto/presentacion/ProductoPresentacionRepository.class
+com/agro/uscoia/item/JdbcItemRepository.class
+com/agro/uscoia/producto/presentacion/ProductoPresentacion.class
+com/agro/uscoia/UscoiaApplication.class
+com/agro/uscoia/item/Item.class
