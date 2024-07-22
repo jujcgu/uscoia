@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UscoiaApplication<uscoia>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.agro.uscoia.UscoiaApplication",
+            "projectName": "uscoia",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
